@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d679e66-506c-4ff8-a948-d615c070ced8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Factorial/Factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SysGears/asignment3/asignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SysGears/assignment1/assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SysGears/assignment2/assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SysGears/assignment4/assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chess/chess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chess/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com.example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com.example/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com.example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com.example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com.example/com.example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc-start/.idea/jdbc-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc-start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/Example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/contributors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/DAO/GroupDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/DAO/GroupDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/DAO/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/DAO/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Form/GroupForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Form/LoginForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Form/RegistrationForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/TestRegexp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Util/FormUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Util/JdbcWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/Util/PropertiesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/controller/GroupController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/controller/LogoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/controller/RegistrationConroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/filters/AuthenticationUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/filters/HttpFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/filters/IsAuthorizesFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/filters/UserAuthorizationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/mappers/Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/mappers/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/model/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/java/Project/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/shared/_footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/shared/_header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/withAuthorization/Group/_GrouptList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/withAuthorization/Group/group.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/withoutAuthorization/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/withoutAuthorization/mainPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/WEB-INF/withoutAuthorization/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AaaProject/PersonnelManagement/src/main/webapp/dfsdfsdf.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YL1KOXuYHGOAGVGzKyE8Ydnk9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d679e66-506c-4ff8-a948-d615c070ced8" name="Default Changelist" comment="" />
+      <created>1582707003577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582707003577</updated>
+      <workItem from="1582707020116" duration="2993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1582711611522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582711611522" />
+    <state x="350" y="68" key="NewModule_or_Project.wizard" timestamp="1582711701802">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1582711701802" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582707092987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582707092987" />
+    <state x="65" y="67" key="new project wizard" timestamp="1582711527724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582711527724" />
+  </component>
+</project>
